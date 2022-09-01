@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+🌱 I’m currently learning HTML, CSS, JavaScript, React, Nodejs, Solidity and everything blockchain!
+
 
 <!--
 **oscarrecenlarsson/oscarrecenlarsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner](https://drive.google.com/file/d/10aun_pRIQ3AnYDhO1aQ1iafl0MTrOAaI/view)
+![banner](https://drive.google.com/uc?export=view&id=10aun_pRIQ3AnYDhO1aQ1iafl0MTrOAaI)
